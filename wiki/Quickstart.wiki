@@ -1,0 +1,18 @@
+Quickstart:
+
+ * Install Arduino software: http://arduino.cc/en/main/software
+ * Install Lonestar gimbal firmware 048B: http://code.google.com/p/brushless-gimbal/ 
+ * Download and install the (043) B-Gimbal windows package of your windows version. 
+ * Download the latest zipped B-Gimbal0.48B update file and extract B-Gimbal in the install folder. 
+ * Make sure to mount your MPU6050 upside down (chips below)!. Only then the controller works and visual output wil look correctly. 
+ * Connect the gimbal controller to USB and external power (for driving motors). 
+ * Run B-Gimbal and choose the correct controller comm port (must be 1-16). 
+ * Push the "Connect" button to read settings from the controller Eeprom. 
+ * While PID tuning push the "ON" button to watch the movement of Artificial Horizon. 
+ * In between push the "Gyro Recalibrate" button to see the effect of settings. 
+ * For Definitions push the "load Definitions" button and browse to the Lonestar gimbal folder called 048 and choose the definitions.h file. Make changes and activate with "Arduino" button. When using "Quit" button changes will be remembered. 
+
+Enjoy and/or report your bugs and remarks ;)! 
+
+
+Hans van den Tillaart 
