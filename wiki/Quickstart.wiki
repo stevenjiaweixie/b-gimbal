@@ -1,7 +1,7 @@
 Quickstart:
 
  * Install Arduino software: http://arduino.cc/en/main/software
- * Install Lonestar gimbal firmware 049A_r45: http://code.google.com/p/brushless-gimbal/ 
+ * Install Lonestar/Alois gimbal firmware 049A_r45: http://code.google.com/p/brushless-gimbal/ 
  * Download and install the (043) B-Gimbal windows package of your windows version. 
  * Download the latest zipped B-Gimbal_0.49A_r45 update file and extract B-Gimbal in the install folder. 
  * Make sure to mount your MPU6050 upside down (chips below)!. Only then the controller works and visual output wil look correctly. 
