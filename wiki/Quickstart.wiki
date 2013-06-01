@@ -10,7 +10,7 @@ Quickstart:
  * Push the "Connect" button to read settings from the controller Eeprom. 
  * While PID tuning push the "ON" button to watch the movement of Artificial Horizon and other graphical tools. 
  * In between push the "Gyro Recalibrate" button to see the effect of settings. 
- * For Definitions push the "load Definitions" button and browse to the Lonestar gimbal folder called BruGi and choose the definitions.h file. Make changes and activate with "Arduino" button. When using "Quit" button changes will be remembered. 
+ * For Definitions push the "load Definitions" button and browse to the firmware gimbal folder called BruGi and choose the definitions.h file. Make changes and activate with "Arduino" button. When using "Quit" button changes will be remembered. 
 
 Enjoy and/or report your bugs and remarks ;)! 
 
