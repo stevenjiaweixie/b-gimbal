@@ -1,7 +1,7 @@
 Quickstart:
 
  * Install Arduino software: http://arduino.cc/en/main/software
- * Install Ludwig/Lonestar/Alois gimbal firmware 049B_r69: http://code.google.com/p/brushless-gimbal/ 
+ * Install Ludwig/Lonestar/Alois gimbal firmware 049B_r161: http://code.google.com/p/brushless-gimbal/ 
  * Download and install the (043) B-Gimbal windows package of your windows version. 
  * Download the latest zipped B-Gimbal_0.49B_r161 update file and extract B-Gimbal in the install folder. 
  * Connect the gimbal controller to USB and external power (for driving motors). 
